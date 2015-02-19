@@ -1,0 +1,4 @@
+[submodule "thirdparty/turbobadger"]
+	path = thirdparty/turbobadger
+	url = https://Avalix@github.com/athingamonth/turbobadger.git
+	branch = master
